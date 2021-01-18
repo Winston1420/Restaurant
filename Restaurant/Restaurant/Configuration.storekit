@@ -1,0 +1,59 @@
+{
+  "products" : [
+    {
+      "displayPrice" : "10",
+      "familyShareable" : false,
+      "internalID" : "3C35E949",
+      "localizations" : [
+        {
+          "description" : "Bronze Package",
+          "displayName" : "Bronze Package",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "com.myapp.bronze",
+      "referenceName" : "Bronze Package",
+      "type" : "NonConsumable"
+    },
+    {
+      "displayPrice" : "25",
+      "familyShareable" : false,
+      "internalID" : "1FC0AB96",
+      "localizations" : [
+        {
+          "description" : "Silver Package",
+          "displayName" : "Silver Package",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "com.myapp.silver",
+      "referenceName" : "Silver Package",
+      "type" : "NonConsumable"
+    },
+    {
+      "displayPrice" : "40",
+      "familyShareable" : false,
+      "internalID" : "0D99BFDE",
+      "localizations" : [
+        {
+          "description" : "Gold Package",
+          "displayName" : "Gold Package",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "com.myapp.gold",
+      "referenceName" : "Gold Package",
+      "type" : "NonConsumable"
+    }
+  ],
+  "settings" : {
+
+  },
+  "subscriptionGroups" : [
+
+  ],
+  "version" : {
+    "major" : 1,
+    "minor" : 0
+  }
+}
